@@ -1,0 +1,47 @@
+.Banner
+{
+    width: 100%;
+    height: 100px;
+    background-color: #ff695e;
+}
+.Dagrasso
+{
+    height: 100px;
+}
+.imageContainer
+{
+    text-align: center;
+    height: 100px;
+}
+.Hz
+{
+    height: 30px;
+}
+.Pizza1, .Pizza2, .Pizza3, .Pizza4, .Pizza5
+{
+box-shadow: gray 1px 5px 10px;
+    width: 25%;
+    display: flex;
+    padding: 10px;
+
+}
+.Hint
+{
+
+    color: darkgray;
+    font-weight: bold;
+font-size: 15px;
+    padding: 5px;
+
+}
+.Normal
+{
+
+    font-size: 20px;
+    font-weight: bold;
+}
+.main
+{
+    padding-left: 20px;
+}
+
