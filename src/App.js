@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className="Container">
         <div className="Banner">
             <img src="dagrassoLogo.webp" className="Dagrasso"/>
 
@@ -12,9 +12,7 @@ function App() {
 
         <div className="main">
 
-            <div className="imageContainer">
-                <img src="horizontaline.png" className="Hz"/>
-            </div>
+
             <div className="Pizza1">
                 <img src="13_wiejska.webp" className="Wiejska"/>
                 <p className="Normal">Pizza Wiejksa
