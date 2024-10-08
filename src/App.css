@@ -32,7 +32,7 @@
 {
     height: 30px;
 }
-.Pizza1, .Pizza2, .Pizza3, .Pizza4, .Pizza5
+.Pizza
 {
 box-shadow: gray 1px 5px 10px;
     width: 25%;
@@ -41,6 +41,7 @@ box-shadow: gray 1px 5px 10px;
     background-color: white;
     margin-top:10px;
     opacity: 1;
+
 }
 .Hint
 {
@@ -69,4 +70,9 @@ font-size: 15px;
 {
     color: darkgray;
     font-size: 15px;
+}
+.Pizza:hover
+{
+    scale: 120%;
+    transition-duration: 0.3s;
 }

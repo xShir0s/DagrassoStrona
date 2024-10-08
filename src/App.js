@@ -13,7 +13,7 @@ function App() {
         <div className="main">
 
 
-            <div className="Pizza1">
+            <div className="Pizza">
                 <img src="13_wiejska.webp" className="Wiejska"/>
                 <p className="Normal">Pizza Wiejksa
                     <p className="Hint">Rozmiar: 32cm, 64cm, 80cm</p>
@@ -21,28 +21,28 @@ function App() {
                 </p>
 
             </div>
-            <div className="Pizza2">
+            <div className="Pizza">
                 <img src="5_decoro.webp" className="Wiejska"/>
                 <p className="Normal">Pizza Decoro
                     <p className="Hint">Rozmiar: 32cm, 64cm, 80cm</p>
                     <p className="Hint2">Cena: 40zl, 70zl, 120zl</p>
                 </p>
             </div>
-            <div className="Pizza3">
+            <div className="Pizza">
                 <img src="17_da-grasso.webp" className="Wiejska"/>
                 <p className="Normal">Pizza Dagrasso
                     <p className="Hint">Rozmiar: 32cm, 64cm, 80cm</p>
                     <p className="Hint2">Cena: 40zl, 70zl, 120zl</p>
                 </p>
             </div>
-            <div className="Pizza4">
+            <div className="Pizza">
                 <img src="4_campione.webp" className="Wiejska"/>
                 <p className="Normal">Pizza Campione
                     <p className="Hint">Rozmiar: 32cm, 64cm, 80cm</p>
                     <p className="Hint2">Cena: 40zl, 70zl, 120zl</p>
                 </p>
             </div>
-            <div className="Pizza5">
+            <div className="Pizza">
                 <img src="2_capriciosa.webp" className="Wiejska"/>
                 <p className="Normal">Pizza Capriciosa
                     <p className="Hint">Rozmiar: 32cm, 64cm, 80cm</p>
