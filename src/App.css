@@ -76,3 +76,13 @@ font-size: 15px;
     scale: 120%;
     transition-duration: 0.3s;
 }
+.Koszyk
+{
+    height: 30px;
+    float: right;
+}
+.Koszyk:hover
+{
+    scale: 135%;
+    transition-duration: 0.3s;
+}

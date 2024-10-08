@@ -18,6 +18,7 @@ function App() {
                 <p className="Normal">Pizza Wiejksa
                     <p className="Hint">Rozmiar: 32cm, 64cm, 80cm</p>
                     <p className="Hint2">Cena: 40zl, 70zl, 120zl</p>
+                    <img src="koszyk.png" className="Koszyk"/>
                 </p>
 
             </div>
@@ -26,6 +27,7 @@ function App() {
                 <p className="Normal">Pizza Decoro
                     <p className="Hint">Rozmiar: 32cm, 64cm, 80cm</p>
                     <p className="Hint2">Cena: 40zl, 70zl, 120zl</p>
+                    <img src="koszyk.png" className="Koszyk"/>
                 </p>
             </div>
             <div className="Pizza">
@@ -33,6 +35,7 @@ function App() {
                 <p className="Normal">Pizza Dagrasso
                     <p className="Hint">Rozmiar: 32cm, 64cm, 80cm</p>
                     <p className="Hint2">Cena: 40zl, 70zl, 120zl</p>
+                    <img src="koszyk.png" className="Koszyk"/>
                 </p>
             </div>
             <div className="Pizza">
@@ -40,6 +43,7 @@ function App() {
                 <p className="Normal">Pizza Campione
                     <p className="Hint">Rozmiar: 32cm, 64cm, 80cm</p>
                     <p className="Hint2">Cena: 40zl, 70zl, 120zl</p>
+                    <img src="koszyk.png" className="Koszyk"/>
                 </p>
             </div>
             <div className="Pizza">
@@ -47,6 +51,7 @@ function App() {
                 <p className="Normal">Pizza Capriciosa
                     <p className="Hint">Rozmiar: 32cm, 64cm, 80cm</p>
                     <p className="Hint2">Cena: 40zl, 70zl, 120zl</p>
+                    <img src="koszyk.png" className="Koszyk"/>
                 </p>
             </div>
 
